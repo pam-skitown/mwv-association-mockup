@@ -1,3 +1,4 @@
+import React from 'react';
 export default function MWVMockSite() {
   return (
     <div style={{ fontFamily: 'Arial, sans-serif', background: '#f8fafc', color: '#0f172a', lineHeight: 1.6 }}>
