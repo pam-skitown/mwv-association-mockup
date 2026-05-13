@@ -70,7 +70,7 @@ export default function MWVMockSite() {
 
             <div style={{ background: '#991b1b', color: '#ffffff', padding: '32px', borderRadius: '24px' }}>
               <h3 style={{ fontSize: '30px', fontWeight: '900' }}>Industry Partner Membership</h3>
-              <div style={{ fontSize: '40px', fontWeight: '900', margin: '12px 0' }}>$50 Introductory</div>
+              <div style={{ fontSize: '40px', fontWeight: '900', margin: '12px 0' }}>Introductory Partner Tier</div>
               <p>
                 For local businesses and service providers that support STR owners and want visibility within the MWV vacation rental community.
               </p>
