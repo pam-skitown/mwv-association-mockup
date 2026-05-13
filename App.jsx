@@ -38,7 +38,7 @@ export default function MWVMockSite() {
           </div>
 
           <div style={{ background: '#ffffff', padding: '40px', borderRadius: '24px', boxShadow: '0 10px 30px rgba(0,0,0,0.08)' }}>
-            <h2 style={{ fontSize: '32px', fontWeight: '900', marginBottom: '16px' }}>From advocacy group to industry hub</h2>
+            <h2 style={{ fontSize: '32px', fontWeight: '900', marginBottom: '16px' }}>Expanding advocacy, education, and industry partnerships</h2>
             <p style={{ color: '#475569', marginBottom: '24px' }}>
               This revised structure positions MWVARVR as the central resource for owners, operators, service providers, and community stakeholders.
             </p>
@@ -162,7 +162,7 @@ export default function MWVMockSite() {
         <div style={{ maxWidth: '1200px', margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div>
             <div style={{ color: '#ffffff', fontWeight: '900' }}>Mt. Washington Valley Association for Responsible Vacation Rentals</div>
-            <div style={{ marginTop: '8px', fontSize: '14px' }}>Mock website structure for discussion purposes.</div>
+            <div style={{ marginTop: '8px', fontSize: '14px' }}>Conceptual framework for discussion purposes.</div>
           </div>
           <div style={{ fontSize: '14px' }}>Home • Membership • Vendor Directory • Advocacy • Resources • Donate</div>
         </div>
