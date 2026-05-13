@@ -1,5 +1,9 @@
 import React from 'react';
-import { createRoot } from 'react-dom/client';
+import ReactDOM from 'react-dom/client';
 import MWVMockSite from '../App.jsx';
 
-createRoot(document.getElementById('root')).render(<MWVMockSite />);
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <MWVMockSite />
+  </React.StrictMode>
+);
